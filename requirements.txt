@@ -1,0 +1,17 @@
+torch
+accelerate
+wandb
+openai
+nltk
+sentence_transformers
+transformers
+huggingface_hub
+tqdm
+#sklearn
+datasets
+tensorflow_text
+keras
+pandas
+pyarrow
+sentencepiece
+rouge-score
