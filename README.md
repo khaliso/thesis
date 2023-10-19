@@ -1,6 +1,6 @@
 # What's Where?
 
-## To run a fine-tune, there are a number of different options in 'model' trainings:
+## To run a fine-tune, there are a number of different options in 'model_trainings':
   - train_[model].py
   - train_composite_[model].py
   - synthetic_train.py
